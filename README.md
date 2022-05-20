@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carrancaDF, from Brasilia - DF, Brazil, 30y, M. 
 - 👀 I’m interested in learning Ruby and cybersec, and I'm also studying Software Engineering at AMPLI.
-- 🌱 I’m currently learning Frontend.
+- 🌱 I’m currently learning Pentest.
 - 💞️ I’m looking to collaborate on everything just to learn. 
 - 
 
