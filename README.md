@@ -1,6 +1,6 @@
    <h1>🔥 Opa! Maurício Costa, 31y, DF </h1>
 
-- 👀 <b>Gosto de estudar Python com foco em Cybersec, e também estou cursando Engenharia de Software na poderosa AMPLI!
+- 👀 <b>Gosto de estudar Python com foco em Cybersec, e estou cursando Engenharia de Software na poderosa AMPLI!
 - 🌱 Também estudo Pentest, e outras coisas básicas como HTML, CSS, JS etc.. 
 - ✔  Aqui quero aprender com os melhores! 
 - 🧛‍♀️ Eu vou te seguir, copiar seu código, e tentar melhorá-lo, e você não vai conseguir me impedir 😃
